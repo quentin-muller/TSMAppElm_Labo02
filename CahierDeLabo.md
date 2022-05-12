@@ -8,7 +8,7 @@
   - Taille
   - Matériaux $\epsilon_r$ 
   - Permittivité $\sigma$ 
-- Paramètres circuit
+- Paramètres circuit ( avec graphique )
   - $S_{11}$ vs $f$
   - $S_{11}$ @ $f_r$
   - Bande passante -> -10[dB] ou -6[dB]
@@ -26,7 +26,7 @@ $e$ : épaisseur cuivre ($35$ $\mu m$)
 
 $h$ : épaisseur substrat ($1.6$ $mm$)
 
-$\epsilon_r$ : permittivité du substrat 
+$\epsilon_r$ : permittivité du substrat (FR4:4 et CER:9.9)
 
 ### Evolution des paramètres sur la physique
 
