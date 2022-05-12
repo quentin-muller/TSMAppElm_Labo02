@@ -20,7 +20,7 @@
 
 ### Antenne planaire dipôle
 
-![](C:\MASTER\Soft\Labo_SIM\Github\TSMAppElm_Labo02\Figures\dimensions.png)
+![](.\Figures\dimensions.png)
 
 $e$ : épaisseur cuivre ($35$ $\mu m$)
 
