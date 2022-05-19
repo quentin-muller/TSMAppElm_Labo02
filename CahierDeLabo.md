@@ -45,6 +45,7 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 | ls (Longueur PCB)          | 120        | 0                | $\uparrow$ 0.010     |
 | l1 (longueur brin antenne) | 4          | $\downarrow$ 24  | $\uparrow$ 0.927     |
 | l2 (largeur brin antenne)  | 19.5       | $\downarrow$ 188 | $\downarrow$ 1.030   |
+
 <img src=".\Figures\MesureVariationsFR4.png" style="zoom: 20%;" />
 
 ### Tableau de modification de l'antenne dipôle Céramique (alumina 99% lossfree)
