@@ -18,7 +18,7 @@
   - Directivité
   - Diagramme de rayonnement 3D/2D/1Dpolaire
 
-### Antenne planaire dipôle
+## Antenne planaire dipôle
 
 ![](.\Figures\dimensions.png)
 
@@ -59,3 +59,32 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 | l2 (largeur brin antenne)  | 16         | $\downarrow$ 184 | $\downarrow$ 0.42109 |
 
 <img src=".\Figures\MesureVariationsCER.png" style="zoom:20%;" />
+
+## Antenne patch
+
+### Tableau de modification de l'antenne patch FR4
+
+| $\Delta = 10\%$          | $ref$ [mm] | $\Delta f$ [MHz] | $\Delta S_{11}$ [dB] |
+| ------------------------ | ---------- | ---------------- | -------------------- |
+| ws (Largeur PCB)         | 120        |                  |                      |
+| ls (Hauteur PCB)         | 120        |                  |                      |
+| w (largeur patch)        | 57.9676    |                  |                      |
+| l (hauteur patch)        | 44.7764    |                  |                      |
+| w0 (largeur piste alim)  | 1.57685    |                  |                      |
+| w1 (largeur encoche)     | 4.66714    |                  |                      |
+| y0 (hauteur encoche)     | 13.33472   |                  |                      |
+| y1 (longueur piste alim) | 24.29351   |                  |                      |
+
+### Tableau de modification de l'antenne patch CER
+
+| $\Delta = 10\%$          | $ref$ [mm] | $\Delta f$ [MHz] | $\Delta S_{11}$ [dB] |
+| ------------------------ | ---------- | ---------------- | -------------------- |
+| ws (Largeur PCB)         |            |                  |                      |
+| ls (Hauteur PCB)         |            |                  |                      |
+| w (largeur patch)        |            |                  |                      |
+| l (hauteur patch)        |            |                  |                      |
+| w0 (largeur piste alim)  |            |                  |                      |
+| w1 (largeur encoche)     |            |                  |                      |
+| y0 (hauteur encoche)     |            |                  |                      |
+| y1 (longueur piste alim) |            |                  |                      |
+
