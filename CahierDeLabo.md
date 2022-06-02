@@ -17,6 +17,7 @@
   - Efficacité
   - Directivité
   - Diagramme de rayonnement 3D/2D/1Dpolaire
+  - Angle d'ouverture @-3dB (en 2D voir info max est entre les deux points à -)
 
 ## Antenne planaire dipôle
 
