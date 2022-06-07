@@ -51,6 +51,8 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 
 ### Tableau de modification de l'antenne dipôle Céramique (alumina 99% lossfree)
 
+<img src=".\Figures\MesureVariationsFR4.png" style="zoom: 20%;" />
+
 | $\Delta = 10\%$            | $ref$ [mm] | $\Delta f$ [MHz] | $\Delta S_{11}$ [dB] |
 | -------------------------- | ---------- | ---------------- | -------------------- |
 | i (largeur piste)          | 0.8        | $\uparrow$ 8     | $\downarrow$ 0.1933  |
@@ -63,18 +65,20 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 
 ## Antenne patch
 
+<img src=".\Figures\patch_dimensions.png" style="zoom: 80%;" />
+
 ### Tableau de modification de l'antenne patch FR4
 
-| $\Delta = 10\%$          | $ref$ [mm] | $\Delta f$ [MHz] | $\Delta S_{11}$ [dB] |
+| $\Delta = +10\%$         | $ref$ [mm] | $\Delta f$ [MHz] | $\Delta S_{11}$ [dB] |
 | ------------------------ | ---------- | ---------------- | -------------------- |
-| ws (Largeur PCB)         | 120        |                  |                      |
-| ls (Hauteur PCB)         | 120        |                  |                      |
-| w (largeur patch)        | 57.9676    |                  |                      |
-| l (hauteur patch)        | 44.7764    |                  |                      |
-| w0 (largeur piste alim)  | 1.57685    |                  |                      |
-| w1 (largeur encoche)     | 4.66714    |                  |                      |
-| y0 (hauteur encoche)     | 13.33472   |                  |                      |
-| y1 (longueur piste alim) | 24.29351   |                  |                      |
+| ws (Largeur PCB)         | 120        | -3.6             | -3.93                |
+| ls (Hauteur PCB)         | 120        | -3.4             | -5.46                |
+| w (largeur patch)        | 58.2       | -8               | -9.85                |
+| l (hauteur patch)        | 45.45      | -136.8           | +4.115               |
+| w0 (largeur piste alim)  | 1.58       | +0.087           | 1.15                 |
+| w1 (largeur encoche)     | 4.67       |                  |                      |
+| y0 (hauteur encoche)     | 13.33      |                  |                      |
+| y1 (longueur piste alim) | 24.29      |                  |                      |
 
 ### Tableau de modification de l'antenne patch CER
 
