@@ -47,11 +47,9 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 | l1 (longueur brin antenne) | 4          | $\downarrow$ 24  | $\uparrow$ 0.927     |
 | l2 (largeur brin antenne)  | 19.5       | $\downarrow$ 188 | $\downarrow$ 1.030   |
 
-<img src=".\Figures\MesureVariationsFR4.png" style="zoom: 20%;" />
+<img src=".\Figures\MesureVariationsFR4.png" style="zoom: 100%;" />
 
 ### Tableau de modification de l'antenne dipôle Céramique (alumina 99% lossfree)
-
-<img src=".\Figures\MesureVariationsFR4.png" style="zoom: 20%;" />
 
 | $\Delta = 10\%$            | $ref$ [mm] | $\Delta f$ [MHz] | $\Delta S_{11}$ [dB] |
 | -------------------------- | ---------- | ---------------- | -------------------- |
@@ -61,7 +59,7 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 | l1 (longueur brin antenne) | 2          | $\downarrow$ 16  | $\uparrow$ 0.4974    |
 | l2 (largeur brin antenne)  | 16         | $\downarrow$ 184 | $\downarrow$ 0.42109 |
 
-<img src=".\Figures\MesureVariationsCER.png" style="zoom:20%;" />
+<img src=".\Figures\MesureVariationsCER.png" style="zoom:100%;" />
 
 ## Antenne patch
 
@@ -75,10 +73,12 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 | ls (Hauteur PCB)         | 120        | -3.4             | -5.46                |
 | w (largeur patch)        | 58.2       | -8               | -9.85                |
 | l (hauteur patch)        | 45.45      | -136.8           | +4.115               |
-| w0 (largeur piste alim)  | 1.58       | +0.087           | 1.15                 |
-| w1 (largeur encoche)     | 4.67       |                  |                      |
-| y0 (hauteur encoche)     | 13.33      |                  |                      |
-| y1 (longueur piste alim) | 24.29      |                  |                      |
+| w0 (largeur piste alim)  | 1.58       | +0.087           | +1.15                |
+| w1 (largeur encoche)     | 4.67       | +2               | -2.95299             |
+| y0 (hauteur encoche)     | 13.33      | -2               | -18.12               |
+| y1 (longueur piste alim) | 24.29      | 2                | +1.77                |
+
+<img src=".\Figures\PatchMesureVariationsFR4.png" style="zoom: 100%;" />
 
 ### Tableau de modification de l'antenne patch CER
 
