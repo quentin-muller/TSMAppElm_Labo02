@@ -84,12 +84,12 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 
 | $\Delta = 10\%$          | $ref$ [mm] | $\Delta f$ [MHz] | $\Delta S_{11}$ [dB] |
 | ------------------------ | ---------- | ---------------- | -------------------- |
-| ws (Largeur PCB)         |            |                  |                      |
-| ls (Hauteur PCB)         |            |                  |                      |
-| w (largeur patch)        |            |                  |                      |
-| l (hauteur patch)        |            |                  |                      |
-| w0 (largeur piste alim)  |            |                  |                      |
-| w1 (largeur encoche)     |            |                  |                      |
-| y0 (hauteur encoche)     |            |                  |                      |
-| y1 (longueur piste alim) |            |                  |                      |
+| ws (Largeur PCB)         | 80         |                  |                      |
+| ls (Hauteur PCB)         | 80         |                  |                      |
+| w (largeur patch)        | 40.6       |                  |                      |
+| l (hauteur patch)        | 29.9       |                  |                      |
+| w0 (largeur piste alim)  | 1.58       |                  |                      |
+| w1 (largeur encoche)     | 3          |                  |                      |
+| y0 (hauteur encoche)     | 10         |                  |                      |
+| y1 (longueur piste alim) | 22         |                  |                      |
 
