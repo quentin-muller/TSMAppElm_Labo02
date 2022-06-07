@@ -82,14 +82,15 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 
 ### Tableau de modification de l'antenne patch CER
 
-| $\Delta = 10\%$          | $ref$ [mm] | $\Delta f$ [MHz] | $\Delta S_{11}$ [dB] |
+| $\Delta = +10\%$         | $ref$ [mm] | $\Delta f$ [MHz] | $\Delta S_{11}$ [dB] |
 | ------------------------ | ---------- | ---------------- | -------------------- |
-| ws (Largeur PCB)         | 80         |                  |                      |
-| ls (Hauteur PCB)         | 80         |                  |                      |
-| w (largeur patch)        | 40.6       |                  |                      |
-| l (hauteur patch)        | 29.9       |                  |                      |
-| w0 (largeur piste alim)  | 1.58       |                  |                      |
-| w1 (largeur encoche)     | 3          |                  |                      |
-| y0 (hauteur encoche)     | 10         |                  |                      |
-| y1 (longueur piste alim) | 22         |                  |                      |
+| ws (Largeur PCB)         | 80         | -1               | -8.53                |
+| ls (Hauteur PCB)         | 80         | -1               | -5.457               |
+| w (largeur patch)        | 43.8       | -10              | +8.66                |
+| l (hauteur patch)        | 29.9       | -128             | +10.38               |
+| w0 (largeur piste alim)  | 1.58       | +0.8             | +1.65                |
+| w1 (largeur encoche)     | 3          | +1               | +4.3                 |
+| y0 (hauteur encoche)     | 10         | -3               | +11.44               |
+| y1 (longueur piste alim) | 22         | -0.3             | +5.11                |
 
+<img src=".\Figures\PatchMesureVariationsCER.png" style="zoom: 100%;" />
