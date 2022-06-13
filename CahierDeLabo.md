@@ -94,3 +94,22 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 | y1 (longueur piste alim) | 22         | -0.3             | +5.11                |
 
 <img src=".\Figures\PatchMesureVariationsCER.png" style="zoom: 100%;" />
+
+## Simulation de la mesure de la permittivité d'un matériau
+
+<img src="FiguresTypora/image-20220613151516025.png" alt="image-20220613151516025" style="zoom:50%;" />
+
+| Dimensions                                      | $ref$ [mm] |
+| ----------------------------------------------- | ---------- |
+| ws (Largeur PCB)                                | 120        |
+| ls (Hauteur PCB)                                | 120        |
+| w (largeur patch)                               | 58.2       |
+| l (hauteur patch)                               | 45.45      |
+| w0 (largeur piste alim)                         | 1.58       |
+| w1 (largeur encoche)                            | 4.67       |
+| y0 (hauteur encoche)                            | 13.33      |
+| y1 (longueur piste alim)                        | 24.29      |
+| h2 (Epaisseur matériau sous test)               | 1          |
+| $\epsilon_r$ (permittivité du nouveau matériau) | 1.75       |
+
+![image-20220613150454976](FiguresTypora/image-20220613150454976.png)
