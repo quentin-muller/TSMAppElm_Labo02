@@ -6,8 +6,8 @@
 
 - Paramètres physique
   - Taille
-  - Matériaux $\epsilon_r$ 
-  - Permittivité $\sigma$ 
+  - Permittivité  Matériaux $\epsilon_r$ 
+  - $\sigma$ 
 - Paramètres circuit ( avec graphique )
   - $S_{11}$ vs $f$
   - $S_{11}$ @ $f_r$
@@ -112,4 +112,4 @@ $\Delta S_{11}$ = variation de la profondeur du pic du $S_{11}$
 | h2 (Epaisseur matériau sous test)               | 1          |
 | $\epsilon_r$ (permittivité du nouveau matériau) | 1.75       |
 
-![image-20220613150454976](FiguresTypora/image-20220613150454976.png)
+![image-20220613150454976](FiguresTypora/image-20220613150454976.png)1
